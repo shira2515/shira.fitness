@@ -5,6 +5,7 @@ body
 .programMenuList
 {
   text-align: left;
+  display: inline-block;
 }
 h2
 {
