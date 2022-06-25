@@ -2,6 +2,12 @@ body
 {
   text-align: center
 }
+
+body * h1
+{
+  color: #0000FF
+}
+
 body * h2
 {
   color: #00BFFF
