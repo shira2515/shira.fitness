@@ -1,6 +1,7 @@
 body
 {
-  text-align: center
+  width: 1000px;
+    margin: auto;
 }
 
 body * h1
