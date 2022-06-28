@@ -3,6 +3,10 @@ body
   text-align: center;
 }
 
+.programMenuList{
+  display: inline-block;
+}
+
 body * h1
 {
   color: #0000FF
