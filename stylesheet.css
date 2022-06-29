@@ -15,6 +15,18 @@ body * h2{
 }
 
 .strech{
-  padding: top
+  padding-top: 20px
 }
 
+.warmingUp{
+  padding-top: 30px
+}
+
+.training{
+  padding-top: 40px
+}
+
+.massageOrCooldown{
+  padding-top: 50px
+}
+  
